@@ -1,1 +1,1 @@
-# scrapping
+# web scraping
